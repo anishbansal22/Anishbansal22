@@ -7,4 +7,3 @@
 - 💬 Ask me about Java, Purescript
 - 😄 Pronouns: Application Developer
 - ⚡ Fun fact: Late Hoon Par Great Hoon
--->
